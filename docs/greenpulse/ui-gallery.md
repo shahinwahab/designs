@@ -1,23 +1,61 @@
 # Greenpulse UI Gallery
-
 This document contains the visual assets from the brand kit.
 
-| Primary logo 1 🔽 <br> PNG • 20.4 KB | Logo grid system 2 🔽 <br> PNG • 21.4 KB |
-|------------------------------------|----------------------------------------|
-| ![Primary logo 1](image-files/logo/Primary-logo-1.png) | ![Logo grid system 2](image-files/logo/Logo-grid-system-2.png) |
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <strong>Primary logo 1 🔽</strong><br><br>
+      <img src="image-files/logo/Primary-logo-1.png" alt="Primary logo 1" width="100%">
+    </td>
+    <td width="50%" valign="top" align="center">
+      <strong>Logo grid system 2 🔽</strong><br><br>
+      <img src="image-files/logo/Logo-grid-system-2.png" alt="Logo grid system 2" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <strong>Logo variation 3 🔽</strong><br><br>
+      <img src="image-files/logo/logo-variation-3.png" alt="Logo variation 3" width="100%">
+    </td>
+    <td width="50%" valign="top" align="center">
+      <strong>Business card mockup 4 🔽</strong><br><br>
+      <img src="image-files/mockups/business-card-mockup-4.png" alt="Business card mockup 4" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <strong>Cap mockup 5 🔽</strong><br><br>
+      <img src="image-files/mockups/cap-mockup-5.png" alt="Cap mockup 5" width="100%">
+    </td>
+    <td width="50%" valign="top" align="center">
+      <strong>Hoodie mockup 6 🔽</strong><br><br>
+      <img src="image-files/mockups/hoodie-mockup-6.png" alt="Hoodie mockup 6" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <strong>Book mockup 7 🔽</strong><br><br>
+      <img src="image-files/mockups/book-mockup-7.png" alt="Book mockup 7" width="100%">
+    </td>
+    <td width="50%" valign="top" align="center">
+      <strong>Color palette and tints 8 🔽</strong><br><br>
+      <img src="image-files/color-pallete-and-typography/Color-pallete-and-tints-8.png" alt="Color palette and tints 8" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <strong>Typography 9 🔽</strong><br><br>
+      <img src="image-files/color-pallete-and-typography/Typography-9.png" alt="Typography 9" width="100%">
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
-| Logo variation 3 🔽 <br> PNG • 27.7 KB | Business card mockup 4 🔽 <br> PNG • 7.8 MB |
-|------------------------------------|----------------------------------------|
-| ![Logo variation 3](image-files/logo/logo-variation-3.png) | ![Business card mockup 4](image-files/mockups/business-card-mockup-4.png) |
+<p align="center">
+  <a href="image-files/">
+    <img src="https://img.shields.io/badge/See%20Images%20in%20More%20Details-2b90d9" alt="See Images in More Details" width="240" height="50">
+  </a>
+</p>
 
-| Cap mockup 5 🔽 <br> PNG • 7.3 MB | Hoodie mockup 6 🔽 <br> PNG • 8.1 MB |
-|---------------------------------|-------------------------------------|
-| ![Cap mockup 5](image-files/mockups/cap-mockup-5.png) | ![Hoodie mockup 6](image-files/mockups/hoodie-mockup-6.png) |
-
-| Book mockup 7 🔽 <br> PNG • 13.6 MB | Color palette and tints 8 🔽 <br> PNG • 37.8 KB |
-|---------------------------------|-------------------------------------|
-| ![Book mockup 7](image-files/mockups/book-mockup-7.png) | ![Color palette and tints 8](image-files/color-pallete-and-typography/Color-pallete-and-tints-8.png) |
-
-| Typography 9 🔽 <br> PNG • 64.3 KB | |
-|---------------------------------|-------------------------------------|
-| ![Typography 9](image-files/color-pallete-and-typography/Typography-9.png) | |
+---
+*Total assets: 9 • Last updated: 2025-09-30 10:37 UTC+3*
