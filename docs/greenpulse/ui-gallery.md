@@ -9,7 +9,7 @@ This document contains the visual assets from the brand kit.
         <span style="font-size:12px;">PNG • 20.4 KB</span>
       </div>
       <div align="center" style="margin-top:12px;">
-        <img src="image-files/logo/Primary-logo-1.png" alt="Primary logo 1" style="max-width:100%; max-height:400px; height:auto; width:auto; object-fit:contain;">
+        <img src="image-files/logo/Primary-logo-1.png" alt="Primary logo 1" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
       </div>
     </td>
     <td width="300" valign="top">
@@ -18,7 +18,7 @@ This document contains the visual assets from the brand kit.
         <span style="font-size:12px;">PNG • 21.4 KB</span>
       </div>
       <div align="center" style="margin-top:12px;">
-        <img src="image-files/logo/Logo-grid-system-2.png" alt="Logo grid system 2" style="max-width:100%; max-height:400px; height:auto; width:auto; object-fit:contain;">
+        <img src="image-files/logo/Logo-grid-system-2.png" alt="Logo grid system 2" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
       </div>
     </td>
   </tr>
@@ -29,7 +29,7 @@ This document contains the visual assets from the brand kit.
         <span style="font-size:12px;">PNG • 27.7 KB</span>
       </div>
       <div align="center" style="margin-top:12px;">
-        <img src="image-files/logo/logo-variation-3.png" alt="Logo variation 3" style="max-width:100%; max-height:400px; height:auto; width:auto; object-fit:contain;">
+        <img src="image-files/logo/logo-variation-3.png" alt="Logo variation 3" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
       </div>
     </td>
     <td width="300" valign="top">
@@ -38,7 +38,7 @@ This document contains the visual assets from the brand kit.
         <span style="font-size:12px;">PNG • 7.8 MB</span>
       </div>
       <div align="center" style="margin-top:12px;">
-        <img src="image-files/mockups/business-card mockup-4.png" alt="Business card mockup 4" style="max-width:100%; max-height:400px; height:auto; width:auto; object-fit:contain;">
+        <img src="image-files/mockups/business-card mockup-4.png" alt="Business card mockup 4" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
       </div>
     </td>
   </tr>
@@ -49,7 +49,7 @@ This document contains the visual assets from the brand kit.
         <span style="font-size:12px;">PNG • 7.3 MB</span>
       </div>
       <div align="center" style="margin-top:12px;">
-        <img src="image-files/mockups/cap-mockup-5.png" alt="Cap mockup 5" style="max-width:100%; max-height:400px; height:auto; width:auto; object-fit:contain;">
+        <img src="image-files/mockups/cap-mockup-5.png" alt="Cap mockup 5" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
       </div>
     </td>
     <td width="300" valign="top">
@@ -58,7 +58,7 @@ This document contains the visual assets from the brand kit.
         <span style="font-size:12px;">PNG • 8.1 MB</span>
       </div>
       <div align="center" style="margin-top:12px;">
-        <img src="image-files/mockups/hoodie mockup-6.png" alt="Hoodie mockup 6" style="max-width:100%; max-height:400px; height:auto; width:auto; object-fit:contain;">
+        <img src="image-files/mockups/hoodie mockup-6.png" alt="Hoodie mockup 6" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
       </div>
     </td>
   </tr>
@@ -69,7 +69,7 @@ This document contains the visual assets from the brand kit.
         <span style="font-size:12px;">PNG • 13.6 MB</span>
       </div>
       <div align="center" style="margin-top:12px;">
-        <img src="image-files/mockups/book-mockup-7.png" alt="Book mockup 7" style="max-width:100%; max-height:400px; height:auto; width:auto; object-fit:contain;">
+        <img src="image-files/mockups/book-mockup-7.png" alt="Book mockup 7" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
       </div>
     </td>
     <td width="300" valign="top">
@@ -78,7 +78,7 @@ This document contains the visual assets from the brand kit.
         <span style="font-size:12px;">PNG • 37.8 KB</span>
       </div>
       <div align="center" style="margin-top:12px;">
-        <img src="image-files/color-pallete-and-typography/Color-pallete-and-tints-8.png" alt="Color palette and tints 8" style="max-width:100%; max-height:400px; height:auto; width:auto; object-fit:contain;">
+        <img src="image-files/color-pallete-and-typography/Color-pallete-and-tints-8.png" alt="Color palette and tints 8" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
       </div>
     </td>
   </tr>
@@ -89,7 +89,7 @@ This document contains the visual assets from the brand kit.
         <span style="font-size:12px;">PNG • 64.3 KB</span>
       </div>
       <div align="center" style="margin-top:12px;">
-        <img src="image-files/color-pallete-and-typography/Typography-9.png" alt="Typography 9" style="max-width:100%; max-height:400px; height:auto; width:auto; object-fit:contain;">
+        <img src="image-files/color-pallete-and-typography/Typography-9.png" alt="Typography 9" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
       </div>
     </td>
     <td width="300" valign="top"></td>
