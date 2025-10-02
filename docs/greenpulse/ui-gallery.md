@@ -3,96 +3,60 @@ This document contains the visual assets from the brand kit.
 
 <table>
   <tr>
-    <td width="300" valign="top">
-      <div align="left">
-        <strong>Primary logo 1 🔽</strong><br>
-        <span style="font-size:12px;">PNG • 20.4 KB</span>
-      </div>
-      <div align="center" style="margin-top:12px;">
-        <img src="image-files/logo/Primary-logo-1.png" alt="Primary logo 1" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
-      </div>
+    <td width="50%" valign="top" align="center">
+      <strong>Primary logo 1 🔽</strong><br>
+      <sub>PNG • 20.4 KB</sub><br><br>
+      <img src="image-files/logo/Primary-logo-1.png" alt="Primary logo 1" width="100%">
     </td>
-    <td width="300" valign="top">
-      <div align="left">
-        <strong>Logo grid system 2 🔽</strong><br>
-        <span style="font-size:12px;">PNG • 21.4 KB</span>
-      </div>
-      <div align="center" style="margin-top:12px;">
-        <img src="image-files/logo/Logo-grid-system-2.png" alt="Logo grid system 2" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
-      </div>
+    <td width="50%" valign="top" align="center">
+      <strong>Logo grid system 2 🔽</strong><br>
+      <sub>PNG • 21.4 KB</sub><br><br>
+      <img src="image-files/logo/Logo-grid-system-2.png" alt="Logo grid system 2" width="100%">
     </td>
   </tr>
   <tr>
-    <td width="300" valign="top">
-      <div align="left">
-        <strong>Logo variation 3 🔽</strong><br>
-        <span style="font-size:12px;">PNG • 27.7 KB</span>
-      </div>
-      <div align="center" style="margin-top:12px;">
-        <img src="image-files/logo/logo-variation-3.png" alt="Logo variation 3" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
-      </div>
+    <td width="50%" valign="top" align="center">
+      <strong>Logo variation 3 🔽</strong><br>
+      <sub>PNG • 27.7 KB</sub><br><br>
+      <img src="image-files/logo/logo-variation-3.png" alt="Logo variation 3" width="100%">
     </td>
-    <td width="300" valign="top">
-      <div align="left">
-        <strong>Business card mockup 4 🔽</strong><br>
-        <span style="font-size:12px;">PNG • 7.8 MB</span>
-      </div>
-      <div align="center" style="margin-top:12px;">
-        <img src="image-files/mockups/business-card mockup-4.png" alt="Business card mockup 4" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
-      </div>
+    <td width="50%" valign="top" align="center">
+      <strong>Business card mockup 4 🔽</strong><br>
+      <sub>PNG • 7.8 MB</sub><br><br>
+      <img src="image-files/mockups/business-card mockup-4.png" alt="Business card mockup 4" width="100%">
     </td>
   </tr>
   <tr>
-    <td width="300" valign="top">
-      <div align="left">
-        <strong>Cap mockup 5 🔽</strong><br>
-        <span style="font-size:12px;">PNG • 7.3 MB</span>
-      </div>
-      <div align="center" style="margin-top:12px;">
-        <img src="image-files/mockups/cap-mockup-5.png" alt="Cap mockup 5" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
-      </div>
+    <td width="50%" valign="top" align="center">
+      <strong>Cap mockup 5 🔽</strong><br>
+      <sub>PNG • 7.3 MB</sub><br><br>
+      <img src="image-files/mockups/cap-mockup-5.png" alt="Cap mockup 5" width="100%">
     </td>
-    <td width="300" valign="top">
-      <div align="left">
-        <strong>Hoodie mockup 6 🔽</strong><br>
-        <span style="font-size:12px;">PNG • 8.1 MB</span>
-      </div>
-      <div align="center" style="margin-top:12px;">
-        <img src="image-files/mockups/hoodie mockup-6.png" alt="Hoodie mockup 6" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
-      </div>
+    <td width="50%" valign="top" align="center">
+      <strong>Hoodie mockup 6 🔽</strong><br>
+      <sub>PNG • 8.1 MB</sub><br><br>
+      <img src="image-files/mockups/hoodie mockup-6.png" alt="Hoodie mockup 6" width="100%">
     </td>
   </tr>
   <tr>
-    <td width="300" valign="top">
-      <div align="left">
-        <strong>Book mockup 7 🔽</strong><br>
-        <span style="font-size:12px;">PNG • 13.6 MB</span>
-      </div>
-      <div align="center" style="margin-top:12px;">
-        <img src="image-files/mockups/book-mockup-7.png" alt="Book mockup 7" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
-      </div>
+    <td width="50%" valign="top" align="center">
+      <strong>Book mockup 7 🔽</strong><br>
+      <sub>PNG • 13.6 MB</sub><br><br>
+      <img src="image-files/mockups/book-mockup-7.png" alt="Book mockup 7" width="100%">
     </td>
-    <td width="300" valign="top">
-      <div align="left">
-        <strong>Color palette and tints 8 🔽</strong><br>
-        <span style="font-size:12px;">PNG • 37.8 KB</span>
-      </div>
-      <div align="center" style="margin-top:12px;">
-        <img src="image-files/color-pallete-and-typography/Color-pallete-and-tints-8.png" alt="Color palette and tints 8" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
-      </div>
+    <td width="50%" valign="top" align="center">
+      <strong>Color palette and tints 8 🔽</strong><br>
+      <sub>PNG • 37.8 KB</sub><br><br>
+      <img src="image-files/color-pallete-and-typography/Color-pallete-and-tints-8.png" alt="Color palette and tints 8" width="100%">
     </td>
   </tr>
   <tr>
-    <td width="300" valign="top">
-      <div align="left">
-        <strong>Typography 9 🔽</strong><br>
-        <span style="font-size:12px;">PNG • 64.3 KB</span>
-      </div>
-      <div align="center" style="margin-top:12px;">
-        <img src="image-files/color-pallete-and-typography/Typography-9.png" alt="Typography 9" style="max-width:100%; height:auto; width:auto; object-fit:contain;">
-      </div>
+    <td width="50%" valign="top" align="center">
+      <strong>Typography 9 🔽</strong><br>
+      <sub>PNG • 64.3 KB</sub><br><br>
+      <img src="image-files/color-pallete-and-typography/Typography-9.png" alt="Typography 9" width="100%">
     </td>
-    <td width="300" valign="top"></td>
+    <td width="50%"></td>
   </tr>
 </table>
 
