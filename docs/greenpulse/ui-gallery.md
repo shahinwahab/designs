@@ -4,47 +4,47 @@ This document contains the visual assets from the brand kit.
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <sub>Primary logo 1 🔽</sub><br><br>
+      Primary logo 1 🔽<br><br>
       <img src="image-files/logo/Primary-logo-1.png" alt="Primary logo 1" width="100%">
     </td>
     <td width="50%" valign="top" align="center">
-      <sub>Logo grid system 2 🔽</sub><br><br>
+      Logo grid system 2 🔽<br><br>
       <img src="image-files/logo/Logo-grid-system-2.png" alt="Logo grid system 2" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <sub>Logo variation 3 🔽</sub><br><br>
+      Logo variation 3 🔽<br><br>
       <img src="image-files/logo/logo-variation-3.png" alt="Logo variation 3" width="100%">
     </td>
     <td width="50%" valign="top" align="center">
-      <sub>Business card mockup 4 🔽</sub><br><br>
+      Business card mockup 4 🔽<br><br>
       <img src="image-files/mockups/business-card-mockup-4.png" alt="Business card mockup 4" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <sub>Cap mockup 5 🔽</sub><br><br>
+      Cap mockup 5 🔽<br><br>
       <img src="image-files/mockups/cap-mockup-5.png" alt="Cap mockup 5" width="100%">
     </td>
     <td width="50%" valign="top" align="center">
-      <sub>Hoodie mockup 6 🔽</sub><br><br>
+      Hoodie mockup 6 🔽<br><br>
       <img src="image-files/mockups/hoodie-mockup-6.png" alt="Hoodie mockup 6" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <sub>Book mockup 7 🔽</sub><br><br>
+      Book mockup 7 🔽<br><br>
       <img src="image-files/mockups/book-mockup-7.png" alt="Book mockup 7" width="100%">
     </td>
     <td width="50%" valign="top" align="center">
-      <sub>Color palette and tints 8 🔽</sub><br><br>
+      Color palette and tints 8 🔽<br><br>
       <img src="image-files/color-pallete-and-typography/Color-pallete-and-tints-8.png" alt="Color palette and tints 8" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <sub>Typography 9 🔽</sub><br><br>
+      Typography 9 🔽<br><br>
       <img src="image-files/color-pallete-and-typography/Typography-9.png" alt="Typography 9" width="100%">
     </td>
     <td width="50%"></td>
