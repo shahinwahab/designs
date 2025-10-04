@@ -2,7 +2,7 @@
 
 All rights reserved.
 
-This source code is **proprietary** and protected by international copyright law.
+This source code and assets is **proprietary** and protected by international copyright law.
 
 Any reproduction, distribution, modification or unauthorized use in whole or in part is **strictly prohibited**.
 
