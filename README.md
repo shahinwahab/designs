@@ -4,24 +4,29 @@ This repository presents a curated collection of design assets developed for dif
 
 ## 📂 Repository Structure
 
-All files are organized under the `docs/` directory. Each company or project has its own folder, containing:
+All files are organized in this repository. Each company or project has its own folder, containing:
 
-* **image-files/**
-  Optimized design exports (`.png`) prepared for quick previews and usage.  
-  👉 Standard export: approximately **1000 px** width, with aspect ratio preserved for quality consistency.
+  Optimized design exports: i.e (`.webp`) prepared for quick previews and usage.  
+  👉 Standard export: **2000 px** width, preserving aspect ratio.
 
-* **Original Files (Private)**
-  Source design files (e.g., `.ai`, `.psd`, `.fig`) are **kept private** to protect the work and keep it secure.
+**Original Files (Private)**
+Source design files (e.g., `.ai`, `.psd`, `.fig`) are **kept private** to protect the work and keep it secure.
 
 **Example Layout:**
 
 ```
-docs/
-  company-name/
-    image-files/
-      logo-1.png
-      banner-2.png
-    (original design files remain private)
+
+repo/
+  company-a/
+    logo-1.webp
+    banner-2.webp
+    mockups/
+      business-card.webp
+    original-files/  # private file
+      
+  company-b/
+    logo-1.webp
+
 ```
 
 ## 🌟 Key Highlights
