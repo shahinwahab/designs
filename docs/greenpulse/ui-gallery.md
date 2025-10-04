@@ -1,53 +1,97 @@
-# Greenpulse UI Gallery
-This document contains the visual assets from the brand kit.
+# greenpulse UI Gallery
+
+the document contains visual assets from brand kit.
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      Primary logo 1 🔽<br><br>
-      <img src="image-files/logo/Primary-logo-1.png" alt="Primary logo 1" width="100%">
+      logo horizontal 1 🔽<br><br>
+      <img src="image-files/logo/logo-horizontal-1.webp" alt="logo horizontal 1 🔽" width="100%">
     </td>
     <td width="50%" valign="top" align="center">
-      Logo grid system 2 🔽<br><br>
-      <img src="image-files/logo/Logo-grid-system-2.png" alt="Logo grid system 2" width="100%">
+      horizontal grid system 2 🔽<br><br>
+      <img src="image-files/logo/horizontal-grid-system-2.webp" alt="horizontal grid system 2 🔽" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      Logo variation 3 🔽<br><br>
-      <img src="image-files/logo/logo-variation-3.png" alt="Logo variation 3" width="100%">
+      logo vertical 3 🔽<br><br>
+      <img src="image-files/logo/logo-vertical-3.webp" alt="logo vertical 3 🔽" width="100%">
     </td>
     <td width="50%" valign="top" align="center">
-      Business card mockup 4 🔽<br><br>
-      <img src="image-files/mockups/business-card-mockup-4.png" alt="Business card mockup 4" width="100%">
+      vertical grid system 4 🔽<br><br>
+      <img src="image-files/logo/vertical-grid-system-4.webp" alt="vertical grid system 4 🔽" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      Cap mockup 5 🔽<br><br>
-      <img src="image-files/mockups/cap-mockup-5.png" alt="Cap mockup 5" width="100%">
+      business card 5 🔽<br><br>
+      <img src="image-files/mockups/business-card-5.webp" alt="business card 5 🔽" width="100%">
     </td>
     <td width="50%" valign="top" align="center">
-      Hoodie mockup 6 🔽<br><br>
-      <img src="image-files/mockups/hoodie-mockup-6.png" alt="Hoodie mockup 6" width="100%">
+      brand identity 6 🔽<br><br>
+      <img src="image-files/mockups/brand-identity-6.webp" alt="brand identity 6 🔽" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      Book mockup 7 🔽<br><br>
-      <img src="image-files/mockups/book-mockup-7.png" alt="Book mockup 7" width="100%">
+      billboard 7 🔽<br><br>
+      <img src="image-files/mockups/billboard-7.webp" alt="billboard 7 🔽" width="100%">
     </td>
     <td width="50%" valign="top" align="center">
-      Color palette and tints 8 🔽<br><br>
-      <img src="image-files/color-pallete-and-typography/Color-pallete-and-tints-8.png" alt="Color palette and tints 8" width="100%">
+      book 8 🔽<br><br>
+      <img src="image-files/mockups/book-8.webp" alt="book 8 🔽" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      Typography 9 🔽<br><br>
-      <img src="image-files/color-pallete-and-typography/Typography-9.png" alt="Typography 9" width="100%">
+      board 9 🔽<br><br>
+      <img src="image-files/mockups/board-9.webp" alt="board 9 🔽" width="100%">
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top" align="center">
+      book 10 🔽<br><br>
+      <img src="image-files/mockups/book-10.webp" alt="book 10 🔽" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      tote bag 11 🔽<br><br>
+      <img src="image-files/mockups/tote-bag-11.webp" alt="tote bag 11 🔽" width="100%">
+    </td>
+    <td width="50%" valign="top" align="center">
+      glass bottle 12 🔽<br><br>
+      <img src="image-files/mockups/glass-bottle-12.webp" alt="glass bottle 12 🔽" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      steel bottle 13 🔽<br><br>
+      <img src="image-files/mockups/steel-bottle-13.webp" alt="steel bottle 13 🔽" width="100%">
+    </td>
+    <td width="50%" valign="top" align="center">
+      hoodie 14 🔽<br><br>
+      <img src="image-files/mockups/hoodie-14.webp" alt="hoodie 14 🔽" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      cap 15 🔽<br><br>
+      <img src="image-files/mockups/cap-15.webp" alt="cap 15 🔽" width="100%">
+    </td>
+    <td width="50%" valign="top" align="center">
+      box 16 🔽<br><br>
+      <img src="image-files/mockups/box-16.webp" alt="box 16 🔽" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      Color pallete and tints 17 🔽<br><br>
+      <img src="image-files/color-pallete-and-typography/Color-pallete-and-tints-17.webp" alt="Color pallete and tints 17 🔽" width="100%">
+    </td>
+    <td width="50%" valign="top" align="center">
+      Typography 18 🔽<br><br>
+      <img src="image-files/color-pallete-and-typography/Typography-18.webp" alt="Typography 18 🔽" width="100%">
+    </td>
   </tr>
 </table>
 
@@ -58,4 +102,4 @@ This document contains the visual assets from the brand kit.
 </p>
 
 ---
-*Total assets: 9 • Last updated: 2025-09-30 10:37 UTC+3*
+*Total assets: 18 • Last updated: 2025-10-04 21:43 UTC+3*
