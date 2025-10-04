@@ -1,6 +1,6 @@
 # greenpulse UI Gallery
 
-the document contains visual assets from brand kit.
+This document contains visual assets from the brand kit.
 
 <table>
   <tr>
