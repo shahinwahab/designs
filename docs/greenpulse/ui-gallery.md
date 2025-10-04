@@ -102,4 +102,4 @@ This document contains visual assets from the brand kit.
 </p>
 
 ---
-*Total assets: 18 • Last updated: 2025-10-04 21:43 UTC+3*
+*Total assets: 18 • Last updated: 2025-10-04 21:50 UTC+3*
