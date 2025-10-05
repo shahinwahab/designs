@@ -1,4 +1,4 @@
-# GreenPulse UI Gallery
+# greenpulse UI Gallery
 This document contains visual assets from the brand kit.
 <table>
   <tr>
@@ -63,8 +63,8 @@ This document contains visual assets from the brand kit.
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      steel bottle 13 ⬇️<br><br>
-      <img src="mockups/steel-bottle-13.webp" alt="steel bottle 13 ⬇️" height="550">
+      cap 13 ⬇️<br><br>
+      <img src="mockups/cap-13.webp" alt="cap 13 ⬇️" height="550">
     </td>
     <td width="50%" valign="top" align="center">
       hoodie 14 ⬇️<br><br>
@@ -73,8 +73,8 @@ This document contains visual assets from the brand kit.
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      cap 15 ⬇️<br><br>
-      <img src="mockups/cap-15.webp" alt="cap 15 ⬇️" height="550">
+      steel bottle 15 ⬇️<br><br>
+      <img src="mockups/steel-bottle-15.webp" alt="steel bottle 15 ⬇️" height="550">
     </td>
     <td width="50%" valign="top" align="center">
       box 16 ⬇️<br><br>
@@ -100,4 +100,4 @@ This document contains visual assets from the brand kit.
 </p>
 
 ---
-*Total assets: 18 • Last updated: 2025-10-05 14:18 UTC+3*
+*Total assets: 18 • Last updated: 2025-10-05 14:40 UTC+3*
