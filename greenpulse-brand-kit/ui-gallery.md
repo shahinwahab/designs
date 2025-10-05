@@ -1,4 +1,4 @@
-# greenpulse UI Gallery
+# GreenPulse UI Gallery
 This document contains visual assets from the brand kit.
 <table>
   <tr>
